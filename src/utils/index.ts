@@ -1,1 +1,1 @@
-export * from './nested-paths';
+export * from './types/nested-paths';
